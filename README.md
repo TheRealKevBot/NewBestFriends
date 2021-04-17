@@ -4,6 +4,8 @@ If you love animals or having furry friends around then this is app is for you!
 
 This is an app where animal lovers can go to find their new best friend or to learn more about them! 
 
+[Demo](https://youtu.be/0YeECQQO1sI)
+
 ## General Info
 This web based app allows users to sign-up and create an account with us. Our home page allows users to view the most currently listed animals that are either up for adoption or sale. Their cards will have a brief description showing their picture, species, as well as breed. Should you desire to learn more about them you would simply click below their respective card where you will be directed to their show page. Here you will get a person description of the animal as well as a more generalized description of the breed.
 
