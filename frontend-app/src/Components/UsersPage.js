@@ -20,7 +20,7 @@ export default class UsersPage extends Component {
                  <h2>We've sure missed you!</h2>
                  <h3>Account Information</h3>
                  <div className='user-card'>
-                     <img src={this.props.user.image} alt={this.props.user.username}/>
+                     <img src={'https://upload.wikimedia.org/wikipedia/commons/6/67/User_Avatar.png'} alt={this.props.user.username}/>
                      <p>Username: {this.props.user.username}</p>
                      <p>Display Name: {this.props.user.f_name} {this.props.user.l_name}</p>
                      <p>Current Email: {this.props.user.email}</p>
