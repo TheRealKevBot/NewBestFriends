@@ -126,11 +126,11 @@ body{
   color: salmon;
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.33);
   width: 550px;
-  height: 600px;
+  height: 650px;
   box-sizing: border-box;
 }
 
-.animal-img{
+.animal-img {
   max-width: 500px;
   max-height: 275px;
   display: block;
@@ -144,6 +144,12 @@ body{
   padding: .1rem;
   margin: 1rem;
 } 
+
+.animal-link {
+  margin: 1rem;
+  color: antiquewhite;
+  font-size: 14pt;
+}
 
 .footer-bar {
   float: inline-end;
